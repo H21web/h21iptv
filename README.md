@@ -1,4 +1,4 @@
-# Clean JioTV Playlist Worker
+# Clean TV Playlist Worker
 
 A small Cloudflare Worker that serves **your own** JioTV Go playlist
 in a clean form for your IPTV player. This is the clean version:
