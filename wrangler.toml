@@ -1,0 +1,8 @@
+name = "jiotv-playlist"
+main = "src/index.js"
+compatibility_date = "2026-10-30"
+workers_dev = true
+
+[observability.logs]
+enabled = true
+invocation_logs = true
